@@ -12,7 +12,6 @@ def fetch_latest_submissions():
             return []
         r.raise_for_status()
         data = r.json()
-        # returns list of dicts; each has title, titleSlug, lang, timestamp, etc.
         return data.get("submission", [])
     except requests.RequestException as e:
         print("\n[ERROR] Failed to fetch LeetCode submissions:", str(e), "\n")
