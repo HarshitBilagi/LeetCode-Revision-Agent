@@ -1,4 +1,4 @@
-# LeetCode Daily Revision Agent
+    # LeetCode Daily Revision Agent
 
 This project is a fully automated Python bot that emails you **2 unsent LeetCode problems every day**, using your last 20 solved problems pulled from a public API. You get problem titles, solution links, and basic info delivered to your inbox each morning. No manual selection, no prompts—just consistent revision!
 
@@ -19,7 +19,7 @@ This project is a fully automated Python bot that emails you **2 unsent LeetCode
 
 1. **Clone this repo**:
     ```
-    git clone https://github.com/YOURUSERNAME/leetcode-revision-agent.git
+    git clone https://github.com/harshitbilagi/leetcode-revision-agent.git
     cd leetcode-revision-agent
     ```
 
@@ -55,22 +55,3 @@ sent_tracker.py   # Tracks what's already sent
 config.py         # Your config/settings
 requirements.txt  # All Python dependencies
 ```
-
-***
-
-## Extending & Scaling
-
-- Switch to SQLite for multi-user or more persistent tracking
-- Integrate code fetching or explanations when API expands
-- Add a dashboard/web interface
-
-***
-
-## License
-
-MIT License – free for personal and open-source hobby use.
-
-***
-
-**Enjoy stress-free, consistent LeetCode revision!**
-If you have questions, want to contribute, or need cloud hosting guides, open an Issue or contact the maintainer.
