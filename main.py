@@ -34,6 +34,6 @@ def run_scheduler():
 
 if __name__ == "__main__":
     # To run now for testing, uncomment next line:
-    daily_job()
+    # daily_job()
     # For real schedule, comment above and uncomment below:
-    # run_scheduler()
+    run_scheduler()
