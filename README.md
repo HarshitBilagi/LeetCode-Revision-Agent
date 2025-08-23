@@ -40,5 +40,3 @@ This project is a fully automated Python bot that emails you **2 unsent LeetCode
     ```
 
    > Emails you 2 new problems instantly (for testing).
-
-***
