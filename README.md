@@ -40,3 +40,10 @@ This project is a fully automated Python bot that emails you **2 unsent LeetCode
     ```
 
    > Emails you 2 new problems instantly (for testing).
+
+## Cloud Hosting
+
+<img width="1919" height="1015" alt="image" src="https://github.com/user-attachments/assets/dbcf05e9-3716-48b1-a909-4fe77b8b5cc8" />
+
+<img width="1515" height="698" alt="Screenshot 2025-09-04 131902" src="https://github.com/user-attachments/assets/e1f230ba-465f-437b-ba75-9252b4e3b527" />
+
