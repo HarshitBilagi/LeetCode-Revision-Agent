@@ -1,6 +1,8 @@
 ## LeetCode Daily Revision Agent
 
 This project is a fully automated Python bot that emails you **2 unsent LeetCode problems every day**, using your last 20 solved problems pulled from a public API. You get problem titles, solution links, and basic info delivered to your inbox each morning. No manual selection, no prompts—just consistent revision!
+<img width="639" height="581" alt="Screenshot 2025-09-14 182645" src="https://github.com/user-attachments/assets/93c87ce0-2592-46b0-87c0-9b3d552b3e76" />
+
 
 ***
 
