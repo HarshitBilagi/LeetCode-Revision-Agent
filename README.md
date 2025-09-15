@@ -1,6 +1,6 @@
 ## LeetCode Daily Revision Agent
 
-This project is a fully automated Python bot that emails you **2 unsent LeetCode problems every day**, using your last 20 solved problems pulled from a public API: https://github.com/alfaarghya/alfa-leetcode-api. You get problem titles, solution links, and basic info delivered to your inbox each morning. No manual selection, no prompts—just consistent revision!
+This project is a fully automated Python bot that emails you **2 unsent LeetCode problems every day**, using your last 20 solved problems pulled from a public API: [alfa-leetcode-api](https://github.com/alfaarghya/alfa-leetcode-api). You get problem titles, solution links, and basic info delivered to your inbox each morning. No manual selection, no prompts—just consistent revision!
 
 <img width="466" height="432" alt="Screenshot 2025-09-14 183823" src="https://github.com/user-attachments/assets/821215ce-fcd3-4161-8909-ed7fbe1d6e1e" />
 
